@@ -1,0 +1,7 @@
+---
+objects:
+ -
+  type: wiki_page
+  data:
+   - !include addons/rmelo_datachannel/create_wiki/option_a.yml $profilerequest:radio$0$ eq 1
+   - !include addons/rmelo_datachannel/create_wiki/option_b.yml

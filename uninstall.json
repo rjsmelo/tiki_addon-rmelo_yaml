@@ -1,0 +1,5 @@
+{
+	"remove": [
+		{"type":"wiki_page", "ref":"wiki_form", "profile":"002_page"}
+	]
+}

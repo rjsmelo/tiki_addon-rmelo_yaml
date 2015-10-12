@@ -1,0 +1,10 @@
+---
+objects:
+  -
+    type: wiki_page
+    ref: wiki_form
+    data:
+      mode: create_or_update
+      name: rmelo_yaml_form
+      content: wikicontent:form
+      description:

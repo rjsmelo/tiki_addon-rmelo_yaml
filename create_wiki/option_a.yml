@@ -1,0 +1,4 @@
+---
+data:
+ name: $profilerequest:text$Some Text$
+ content: Option A - $profilerequest:radio$radio$ / $profilerequest:checkbox$checkbox$ / $profilerequest:select$select$ / $profilerequest:textarea$textarea$

@@ -1,0 +1,12 @@
+{
+  "name": "Rmelo Data Channel Yaml Sample",
+  "package": "rmelo/yaml",
+  "version": "0.1",
+  "url": "http://dev.tiki.org/TikiAddonHelloWorld",
+  "smarty": true,
+  "tiki": ["14"],
+  "depends": [
+  ],
+  "api": {
+  }
+}

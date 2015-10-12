@@ -1,0 +1,6 @@
+---
+preferences:
+  feature_wiki: y
+  wikiplugin_datachannel: y
+  profile_channels: |
+      rmelo_datachannel_create_wiki,file://addons/rmelo_yaml/create_wiki,create_wiki_page,Registered
